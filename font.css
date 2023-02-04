@@ -1,0 +1,171 @@
+    body    {
+
+
+            }
+
+            .Vencru {
+   
+
+                    }
+
+            main    {
+   
+   
+                     }
+
+                    header  {
+
+
+                            }
+
+                            #Main-header    {
+                                             
+                                            /* Header 2 || Have No Choice but to use this otherwise it would not look like image */
+                                            font-family: 'Inter';
+                                            font-style: normal;
+                                            font-weight: 600;
+                                            font-size: 30px;
+                                            line-height: 48px;
+                                            /* or 160% */
+                                            
+                                            /* Gray/900 */
+                                            color: #101828;
+
+                                            }
+
+                            #Support-header {
+                                              
+                                            /* Text md/Normal || Have No Choice but to use this otherwise it would not look like image */
+                                            font-family: 'Inter';
+                                            font-style: normal;
+                                            font-weight: 400;
+                                            font-size: 16px;
+                                            line-height: 24px;
+                                            /* identical to box height, or 150% */
+                                            
+                                            /* Gray/500 */
+                                            color: #667085;
+                                            
+                                            }
+
+                    content {
+
+                            
+                            }
+
+                            form    {
+   
+                                
+                                    }
+
+
+                                    label  {
+                                                    /* Text sm/Medium */
+                                                    font-family: 'Inter';
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 14px;
+                                                    line-height: 20px;
+                                                    /* identical to box height, or 143% */
+
+                                                    /* Gray 4 */
+                                                    color: #4C4C4C;;
+                                                    }
+
+
+                                    input           {
+                                                    /* Text md/Normal */
+                                                    font-family: 'Inter';
+                                                    font-style: normal;
+                                                    font-weight: 400;
+                                                    font-size: 16px;
+                                                    line-height: 24px;
+                                                    /* identical to box height, or 150% */
+
+                                                    /* Gray 2 */
+                                                    color: #A5A5A5;
+                                                    }
+
+                            #Row-RememberMe-ForgotPassword 
+                                    {
+
+                                        /* Text sm/Medium */
+                                        font-family: 'Inter';
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        font-size: 14px;
+                                        line-height: 20px;
+                                        /* identical to box height, or 143% */
+
+                                    }
+
+                                    #RememberMe
+                                    {
+                                    /* Gray 3 */
+                                    color: #787878;
+                                    }
+
+                                    #ForgotPassword 
+                                    {
+                                    /* Gray 3 */
+                                    color: #2362D7;
+                                    }
+
+                            #Action {
+
+                                               
+                                    }
+
+                                   .logging         {     
+                                                    /* Text md/Medium */
+                                                    font-family: 'Inter';
+                                                    font-style: normal;
+                                                    font-weight: 500;
+                                                    font-size: 16px;
+                                                    line-height: 24px;
+                                                    /* identical to box height, or 150% */
+
+                                                    /* White */
+                                                    color: #FFFFFF;
+
+                                                    }
+
+                    #Row-Sign-Up    
+                            {
+                            /* Text sm/Normal */
+                            font-family: 'Inter';
+                            font-style: normal;
+                            font-weight: 400;
+                            font-size: 14px;
+                            line-height: 20px;
+                            /* identical to box height, or 143% */
+
+                            /* Gray/500 */
+                            color: #667085;
+                            }
+                    
+
+                        #Row-Sign-Up  a
+                                {
+                                    color: #2362D7;
+                                }
+
+            footer  {
+                
+                    /* Text sm/Normal */
+                    font-family: 'Inter';
+                    font-style: normal;
+                    font-weight: 400;
+                    font-size: 14px;
+                    line-height: 20px;
+                    /* identical to box height, or 143% */
+
+                    /* Gray/500 */
+                    color: #667085;
+                    }
+
+            section {
+
+
+
+                    }
